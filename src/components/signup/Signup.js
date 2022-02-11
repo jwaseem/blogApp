@@ -34,10 +34,18 @@ function Signup(props) {
                   <input type="password" name="password" placeholder="Password" required="" value={formValues.password} onChange={handleChange} />
                   <p>{formErrorValues.password}</p>
                   <br />
+                  <div>
                   <button className='signupbtn1'>Sign up</button>
+                  </div>
                   <br></br>
                   <br/>
+                  <br>
+                  </br>
+                  <br></br>
+                  <div>
                   <Link className="link2" to="/login">Sign In</Link>
+                  </div>
+                  
             </form>
             </div>
             </div>
