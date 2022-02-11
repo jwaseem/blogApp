@@ -1,0 +1,12 @@
+*{
+   
+}
+.head21{
+    color: aliceblue;
+   text-align: center;
+   padding-top: 40px;
+}
+.bg{
+    background-image: url('./blog_pic.jpg');
+    height: 800px;
+}

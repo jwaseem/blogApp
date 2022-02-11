@@ -1,0 +1,25 @@
+.loginBox{
+
+    flex-wrap: wrap;
+    padding: 40px;
+    
+    width: 250px; 
+    box-shadow: rgba(12, 11, 11, 0.25) 0px 25px 40px -12px;
+  }
+  .loginButton{
+      background-color: rgb(37, 151, 172);
+      width: 80px;
+      height: 30px;
+      color: white;
+  }
+  .signupButton{
+    background-color: rgb(37, 151, 172);
+    width: 80px;
+    height: 30px;
+    margin-left: 30px;
+    color: white;
+  }
+  #homepara{
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
